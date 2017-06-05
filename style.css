@@ -1,0 +1,12 @@
+p{
+  padding: 20px;
+}
+
+.container {
+  width: 800px;
+}
+
+.container img {
+  max-height: 5%;
+  max-width: 50%;
+}
