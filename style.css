@@ -7,6 +7,7 @@ p{
 }
 
 .container img {
-  max-height: 5%;
+  padding-top: 20px;
+  max-height: 50%;
   max-width: 50%;
 }
